@@ -21,6 +21,7 @@ Or install it yourself as:
 ## Usage
 
 Create TheTvDB initializer thetvdb.rb
+
     $ rails g thetvdb
 
 Edit the initializer file and place your TVDB API key
