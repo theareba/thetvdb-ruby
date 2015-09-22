@@ -2,6 +2,10 @@
 
 A Ruby Wrapper for [TVDB API](http://thetvdb.com/wiki/index.php?title=Programmers_API)
 
+While there are other existing TVDB gems, none of them offers the following\
+* Retrieving series episodes without having to query for series id first
+* One has to enter TVDB API key each time a call is made.
+
 ## Installation
 
 Add this line to your application's Gemfile:
