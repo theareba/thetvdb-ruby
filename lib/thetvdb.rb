@@ -1,5 +1,5 @@
 require "thetvdb/version"
+require 'rest-client'
+require 'nokogiri'
 
-module Thetvdb
-  # Your code goes here...
-end
+require 'thetvdb/client'
