@@ -41,4 +41,4 @@ To query for shows, use the command
 Note to replace "name of show" with the show you want to query
 
 ##How I developed it
-Read on how I developed the gem [here](www.victorareba.com/tutorials/create-ruby-gem-by-example)
+Read on how I developed the gem [here](http://www.victorareba.com/tutorials/create-ruby-gem-by-example)
